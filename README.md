@@ -1,6 +1,6 @@
 ### Olá, eu sou o André 👋
 
-- 🌱 Eu atualmente estou estudando desenvolviumento Web.
+- 🌱 Eu atualmente estou cursando engenharia de software.
 - 😄 Sou apaixonado em desenvolver e criar.
 - 📫 E-mail: andrediasbalbino19@gmail.com
 
