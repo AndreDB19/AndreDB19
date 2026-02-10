@@ -1,6 +1,6 @@
 ### Olá, eu sou o André 👋
 
-- 🌱 Eu atualmente estou cursando engenharia de software.
+- 🌱 Eu atualmente estou cursando engenharia de software pelo Inatel.
 - 😄 Sou apaixonado em desenvolver e criar.
 - 📫 E-mail: andrediasbalbino19@gmail.com
 
